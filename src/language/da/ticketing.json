@@ -1,0 +1,7 @@
+{
+  "app.text": "Hej og velkommen {user}",
+  "app.link": "Gå til link",
+  "reminder": {
+    "item.product": "{count, plural, =0 {ingen produkter} one {# produkt} other {# produkter}}"
+  }
+}

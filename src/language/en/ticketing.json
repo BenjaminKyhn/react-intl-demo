@@ -1,0 +1,5 @@
+{
+  "app.text": "Hallo, welcome {user}",
+  "app.link": "Go to link",
+  "app.item": "{count, plural, =0 {no products} one {# product} other {# products}}"
+}
